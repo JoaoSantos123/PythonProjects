@@ -1,2 +1,5 @@
-# PythonProjects
-Python3 projects
+# Python Projects
+
+##Project 1 - Real-Time Currency Converter
+
+Autor: @JoaoSantos123
